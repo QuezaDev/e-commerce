@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Camiseta Coringão Delas Tradicional</title>
+  <desc id="desc">Camiseta provisória preta com rosa abstrata e estrela.</desc>
+  <defs>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="2" fill="#171717" opacity=".18"/></pattern>
+  </defs>
+  <rect width="900" height="1080" fill="#efeee9"/>
+  <path d="M0 720h900v360H0z" fill="url(#dots)"/>
+  <path d="m292 174 91-45c22 39 112 39 134 0l91 45 120 151-108 87-43-52 26 528H297l26-528-43 52-108-87Z" fill="#151515" stroke="#f8f8f5" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M383 129c11 49 123 49 134 0" fill="none" stroke="#efeee9" stroke-width="25"/>
+  <path d="M450 380c-82-95-167 37-65 81-48 78 69 123 65 26-4 97 113 52 65-26 102-44 17-176-65-81Z" fill="none" stroke="#f8f8f5" stroke-width="12"/>
+  <path d="M450 360v232m0-78c-50 25-72 57-77 96m77-55c49 18 76 49 83 91" fill="none" stroke="#f8f8f5" stroke-width="10"/>
+  <path d="m450 668 15 44h47l-38 28 15 45-39-27-39 27 15-45-38-28h47Z" fill="#f8f8f5"/>
+  <text x="450" y="842" text-anchor="middle" fill="#f8f8f5" font-family="Arial Black, Arial, sans-serif" font-size="44" letter-spacing="6">DELAS</text>
+  <text x="54" y="73" fill="#151515" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">ARTE DEMONSTRATIVA</text>
+</svg>

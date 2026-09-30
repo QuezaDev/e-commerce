@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Estúdio</title>
+  <desc id="desc">Cena provisória de estúdio com parede de artes e bancada.</desc>
+  <defs><pattern id="wall" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M0 28 28 0" stroke="#f2f2ee" stroke-width="2" opacity=".1"/></pattern></defs>
+  <rect width="800" height="1000" fill="#151515"/>
+  <rect width="800" height="740" fill="url(#wall)"/>
+  <path d="M72 95h260v330H72zm396 0h260v330H468Z" fill="#ecebe6" stroke="#6d6d6a" stroke-width="8"/>
+  <path d="m202 154 30 88h93l-75 54 28 90-76-53-76 53 28-90-75-54h93Z" fill="none" stroke="#151515" stroke-width="12"/>
+  <path d="M598 175c-57-67-117 26-45 56-34 55 49 86 45 18-4 68 79 37 45-18 72-30 12-123-45-56Z" fill="none" stroke="#151515" stroke-width="10"/>
+  <path d="M598 165v176m0-61c-35 18-52 42-55 70m55-39c35 13 54 35 58 64" fill="none" stroke="#151515" stroke-width="8"/>
+  <path d="M0 712h800v288H0Z" fill="#2c2c2c"/>
+  <path d="M88 650h624v66H88zm74 66h24v214h-24zm452 0h24v214h-24z" fill="#ecebe6"/>
+  <path d="M265 566h270v84H265Z" fill="#111" stroke="#ecebe6" stroke-width="8"/>
+  <text x="400" y="621" text-anchor="middle" fill="#ecebe6" font-family="Arial Black, Arial, sans-serif" font-size="29" letter-spacing="4">NEVER SURRENDER</text>
+  <text x="56" y="956" fill="#ecebe6" font-family="Arial Black, Arial, sans-serif" font-size="34" letter-spacing="4">ESTÚDIO &amp; RUA</text>
+</svg>

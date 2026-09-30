@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Adesivo Estúdio e Arquibancada</title>
+  <desc id="desc">Adesivo provisório com mãos estilizadas, raios e moldura abstrata.</desc>
+  <defs><pattern id="noise" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="6" cy="6" r="2" fill="#151515" opacity=".14"/><circle cx="19" cy="16" r="1" fill="#151515" opacity=".16"/></pattern></defs>
+  <rect width="900" height="1080" fill="#e9e8e3"/>
+  <rect width="900" height="1080" fill="url(#noise)"/>
+  <path d="m450 120 97 67 116-6 38 110 98 63-38 110 38 110-98 63-38 110-116-6-97 67-97-67-116 6-38-110-98-63 38-110-38-110 98-63 38-110 116 6Z" fill="#151515" stroke="#f8f8f5" stroke-width="15" stroke-linejoin="round"/>
+  <path d="m294 493 78-81 75 50-58 57 53 49-87 82-116-114Zm312 0-78-81-75 50 58 57-53 49 87 82 116-114Z" fill="none" stroke="#f8f8f5" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M382 519h136" stroke="#f8f8f5" stroke-width="18"/>
+  <path d="m450 239 20 58h61l-49 36 18 59-50-35-50 35 18-59-49-36h61Z" fill="#f8f8f5"/>
+  <path d="m246 349-59-46m526 46 59-46M245 713l-59 47m529-47 59 47" stroke="#f8f8f5" stroke-width="13"/>
+  <text x="450" y="746" text-anchor="middle" fill="#f8f8f5" font-family="Arial Black, Arial, sans-serif" font-size="34" letter-spacing="4">ESTÚDIO &amp; RUA</text>
+  <text x="450" y="1005" text-anchor="middle" fill="#151515" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">ARTE DEMONSTRATIVA</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Kit de Adesivos Traço de Rua</title>
+  <desc id="desc">Cartela provisória com rosa, estrela, chama e faixas abstratas.</desc>
+  <defs><pattern id="grid" width="54" height="54" patternUnits="userSpaceOnUse"><path d="M54 0H0v54" fill="none" stroke="#161616" opacity=".1"/></pattern></defs>
+  <rect width="900" height="1080" fill="#eeeeea"/>
+  <rect width="900" height="1080" fill="url(#grid)"/>
+  <g fill="#161616" stroke="#f8f8f5" stroke-width="12" stroke-linejoin="round">
+    <path d="M154 180h250l52 92-68 113H175l-59-101Z"/>
+    <path d="M529 149h207l48 101-73 98H516l-48-91Z"/>
+    <path d="M130 501h250l46 145-96 112H141L87 622Z"/>
+    <path d="M500 453h265l52 130-70 145H520l-68-139Z"/>
+    <path d="M254 800h390l69 86-70 99H238l-66-91Z"/>
+  </g>
+  <text x="286" y="310" text-anchor="middle" fill="#f8f8f5" font-family="Arial Black, Arial, sans-serif" font-size="56" letter-spacing="5">FIEL</text>
+  <path d="m626 187 20 57h60l-48 35 18 58-50-35-50 35 18-58-48-35h60Z" fill="#f8f8f5"/>
+  <path d="M254 551c-52-61-105 23-40 51-31 51 44 79 40 16-4 63 72 35 40-16 65-28 12-112-40-51Z" fill="none" stroke="#f8f8f5" stroke-width="9"/>
+  <path d="M625 497c-5 55-54 51-31 102 1-32 32-34 23-71 42 35-1 72 38 93-2-24 23-33 18-63 44 74 0 131-48 131-61 0-90-71-39-125-4 27 10 39 24 42-7-38 17-50 15-109Z" fill="none" stroke="#f8f8f5" stroke-width="9"/>
+  <text x="445" y="925" text-anchor="middle" fill="#f8f8f5" font-family="Arial Black, Arial, sans-serif" font-size="38" letter-spacing="4">TRAÇO DE RUA</text>
+  <text x="54" y="73" fill="#161616" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">ARTE DEMONSTRATIVA</text>
+</svg>

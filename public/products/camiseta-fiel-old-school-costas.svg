@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Costas da Camiseta Fiel Old School</title>
+  <desc id="desc">Verso provisório monocromático com faixas, estrela e textura de impressão.</desc>
+  <defs>
+    <pattern id="grain" width="18" height="18" patternUnits="userSpaceOnUse">
+      <path d="M0 18 18 0M-5 5 5-5M13 23l10-10" stroke="#fafaf7" stroke-width="2" opacity=".13"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="1080" fill="#d7d6d1"/>
+  <path d="m275 178 105-49c25 37 115 37 140 0l105 49 118 154-116 85-39-55v526H312V362l-39 55-116-85Z" fill="#171717" stroke="#fafaf7" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M380 129c14 47 126 47 140 0" fill="none" stroke="#d7d6d1" stroke-width="25"/>
+  <path d="M344 310h212v432H344Z" fill="url(#grain)"/>
+  <path d="M360 390h180M360 440h180M360 490h180" stroke="#fafaf7" stroke-width="18"/>
+  <path d="m450 560 22 64h68l-55 40 21 65-56-39-56 39 21-65-55-40h68Z" fill="#fafaf7"/>
+  <text x="450" y="806" text-anchor="middle" fill="#fafaf7" font-family="Arial Black, Arial, sans-serif" font-size="39" letter-spacing="7">NA RAÇA</text>
+  <text x="54" y="73" fill="#171717" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">VERSO DEMONSTRATIVO</text>
+</svg>

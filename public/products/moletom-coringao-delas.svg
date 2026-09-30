@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Moletom Coringão Delas</title>
+  <desc id="desc">Moletom provisório preto com lettering e rosa em linha.</desc>
+  <defs><pattern id="paper" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="8" cy="8" r="2" fill="#111" opacity=".13"/><path d="M18 24h8" stroke="#111" opacity=".12"/></pattern></defs>
+  <rect width="900" height="1080" fill="#ecebe6"/>
+  <path d="M0 0h900v340L0 610Z" fill="url(#paper)"/>
+  <path d="m291 230 93-53c-3-88 135-88 132 0l93 53 124 159-110 89-52-63 28 480H301l28-480-52 63-110-89Z" fill="#151515" stroke="#f6f6f2" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M384 177c-3-88 135-88 132 0-20 80-112 80-132 0Z" fill="#2b2b2b" stroke="#f6f6f2" stroke-width="8"/>
+  <text x="450" y="443" text-anchor="middle" fill="#f6f6f2" font-family="Georgia, serif" font-weight="700" font-style="italic" font-size="79">Delas</text>
+  <path d="M450 500c-65-73-133 29-51 64-39 61 55 96 51 20-4 76 90 41 51-20 82-35 14-137-51-64Z" fill="none" stroke="#f6f6f2" stroke-width="10"/>
+  <path d="M450 485v196m0-66c-38 19-57 44-61 75m61-40c38 13 59 38 64 69" fill="none" stroke="#f6f6f2" stroke-width="8"/>
+  <path d="M370 736h160l42 82H328Z" fill="none" stroke="#f6f6f2" stroke-width="9"/>
+  <text x="54" y="1015" fill="#151515" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">ARTE DEMONSTRATIVA</text>
+</svg>

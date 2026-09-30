@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Ícone Coringão Loko</title>
+  <desc id="desc">Monograma provisório CL em composição quadrada.</desc>
+  <rect width="64" height="64" rx="14" fill="#111"/>
+  <path d="M20 17h20v7H27v16h13v7H20z" fill="#f5f5f2"/>
+  <path d="M44 17h-7v30h13v-7h-6z" fill="#a7a7a3"/>
+  <path d="M11 53h42" stroke="#f5f5f2" stroke-width="3"/>
+</svg>

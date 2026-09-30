@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Camiseta Arquibancada</title>
+  <desc id="desc">Camiseta provisória clara com faixas pretas e composição tipográfica.</desc>
+  <defs>
+    <pattern id="speck" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="8" cy="7" r="2" fill="#171717" opacity=".2"/><circle cx="23" cy="21" r="1.5" fill="#171717" opacity=".16"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="1080" fill="#171717"/>
+  <path d="M0 160 900 0v340L0 500Z" fill="url(#speck)" opacity=".8"/>
+  <path d="m275 178 105-49c25 37 115 37 140 0l105 49 118 154-116 85-39-55v526H312V362l-39 55-116-85Z" fill="#f3f2ed" stroke="#858581" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M380 129c14 47 126 47 140 0-9 79-131 79-140 0Z" fill="#171717"/>
+  <path d="M340 330h220v54H340zm0 87h220v26H340zm0 59h220v13H340" fill="#171717"/>
+  <text x="450" y="594" text-anchor="middle" fill="#171717" font-family="Arial Black, Arial, sans-serif" font-size="48" letter-spacing="3">ARQUI</text>
+  <text x="450" y="650" text-anchor="middle" fill="#171717" font-family="Arial Black, Arial, sans-serif" font-size="48" letter-spacing="3">BANCADA</text>
+  <path d="M360 700h180l-30 88H390Z" fill="none" stroke="#171717" stroke-width="9"/>
+  <path d="M392 723h116M405 750h90" stroke="#171717" stroke-width="8"/>
+  <text x="54" y="1015" fill="#f3f2ed" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">ARTE DEMONSTRATIVA</text>
+</svg>

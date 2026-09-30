@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Costas do Moletom Noite de Jogo</title>
+  <desc id="desc">Verso provisório grafite com chama abstrata e faixas diagonais.</desc>
+  <rect width="900" height="1080" fill="#dad9d4"/>
+  <path d="m291 230 93-53c-3-88 135-88 132 0l93 53 124 159-110 89-52-63 28 480H301l28-480-52 63-110-89Z" fill="#303030" stroke="#f4f4f1" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M384 177c-3-88 135-88 132 0" fill="none" stroke="#dad9d4" stroke-width="24"/>
+  <path d="M337 364h226v35H337zm0 62h226v17H337" fill="#f4f4f1"/>
+  <path d="M450 500c-8 76-70 70-41 139 4-43 43-46 31-95 51 47-3 94 47 123-3-31 28-45 24-81 54 96 0 169-61 169-78 0-117-91-51-165-3 37 13 53 31 57-8-52 22-68 20-147Z" fill="none" stroke="#f4f4f1" stroke-width="12"/>
+  <text x="450" y="820" text-anchor="middle" fill="#f4f4f1" font-family="Arial Black, Arial, sans-serif" font-size="32" letter-spacing="6">NUNCA RECUAR</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Coringão Loko</title>
+  <desc id="desc">Imagem social provisória monocromática da marca.</desc>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="5" cy="5" r="2.4" fill="#f4f4f1" opacity=".15"/></pattern>
+    <clipPath id="tear"><path d="M0 0h1200v630H0V0Zm705 0-85 74 61 82-76 91 65 92-89 84 76 91-89 116h632V0Z"/></clipPath>
+  </defs>
+  <rect width="1200" height="630" fill="#111"/>
+  <rect width="1200" height="630" fill="url(#dots)"/>
+  <g clip-path="url(#tear)"><rect x="650" width="550" height="630" fill="#efeee9"/><path d="M680 90h520v74H680zm0 160h520v26H680zm0 100h520v12H680" fill="#111"/></g>
+  <path d="M84 76h510v9H84zm0 468h510v9H84" fill="#efeee9"/>
+  <text x="84" y="233" fill="#efeee9" font-family="Arial Black, Arial, sans-serif" font-size="94" letter-spacing="-4">CORINGÃO</text>
+  <text x="84" y="326" fill="#efeee9" font-family="Arial Black, Arial, sans-serif" font-size="114" letter-spacing="-5">LOKO</text>
+  <text x="87" y="378" fill="#b2b2ae" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="7">BY NEVER SURRENDER TATTOO</text>
+  <text x="87" y="489" fill="#efeee9" font-family="Arial Black, Arial, sans-serif" font-size="31" letter-spacing="2">OLD SCHOOL NA PELE.</text>
+  <text x="87" y="527" fill="#efeee9" font-family="Arial Black, Arial, sans-serif" font-size="31" letter-spacing="2">CORINTHIANS NO PEITO.</text>
+  <path d="m929 204 35 101h107l-87 63 33 102-88-62-88 62 33-102-87-63h107Z" fill="none" stroke="#111" stroke-width="18"/>
+  <text x="1120" y="594" text-anchor="end" fill="#111" font-family="Arial, sans-serif" font-size="18" letter-spacing="3">IMAGEM PROVISÓRIA</text>
+</svg>

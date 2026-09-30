@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Bastidor de criação</title>
+  <desc id="desc">Mesa de criação provisória com papéis, traços e ferramentas abstratas.</desc>
+  <defs><pattern id="grain" width="25" height="25" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="1.5" fill="#111" opacity=".15"/><path d="M14 19h8" stroke="#111" opacity=".1"/></pattern></defs>
+  <rect width="800" height="1000" fill="#deddd8"/>
+  <rect width="800" height="1000" fill="url(#grain)"/>
+  <path d="m105 167 425-82 85 558-425 82Z" fill="#f5f5f2" stroke="#111" stroke-width="7"/>
+  <path d="m291 250 39 116h122l-99 71 38 117-100-70-100 70 38-117-99-71h122Z" fill="none" stroke="#111" stroke-width="13"/>
+  <path d="m499 218 176 487-42 15-176-487Z" fill="#111"/>
+  <path d="m633 720 42-15-4 84Z" fill="#f5f5f2" stroke="#111" stroke-width="5"/>
+  <path d="M127 786h548v62H127zm0 97h367v24H127" fill="#111"/>
+  <text x="127" y="951" fill="#111" font-family="Arial Black, Arial, sans-serif" font-size="34" letter-spacing="4">DO RISCO À PEÇA</text>
+</svg>

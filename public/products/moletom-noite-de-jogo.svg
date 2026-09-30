@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Moletom Noite de Jogo</title>
+  <desc id="desc">Moletom provisório grafite com chamas lineares e faixas.</desc>
+  <defs><pattern id="rain" width="28" height="28" patternUnits="userSpaceOnUse"><path d="m0 28 28-28" stroke="#f4f4f1" stroke-width="2" opacity=".14"/></pattern></defs>
+  <rect width="900" height="1080" fill="#111"/>
+  <circle cx="705" cy="230" r="270" fill="url(#rain)"/>
+  <path d="m291 230 93-53c-3-88 135-88 132 0l93 53 124 159-110 89-52-63 28 480H301l28-480-52 63-110-89Z" fill="#303030" stroke="#f4f4f1" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M384 177c-3-88 135-88 132 0-20 80-112 80-132 0Z" fill="#191919" stroke="#f4f4f1" stroke-width="8"/>
+  <path d="M374 705h152l45 105H329Z" fill="none" stroke="#f4f4f1" stroke-width="9"/>
+  <path d="M450 356c-7 75-74 67-40 141-1-44 47-46 28-102 62 51-5 104 54 136-3-38 37-51 28-101 62 110-5 192-70 192-94 0-139-111-57-196-3 46 16 63 38 66-12-57 22-75 19-136Z" fill="none" stroke="#f4f4f1" stroke-width="11" stroke-linejoin="round"/>
+  <text x="450" y="674" text-anchor="middle" fill="#f4f4f1" font-family="Arial Black, Arial, sans-serif" font-size="34" letter-spacing="5">NOITE DE JOGO</text>
+  <text x="54" y="73" fill="#f4f4f1" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">ARTE DEMONSTRATIVA</text>
+</svg>

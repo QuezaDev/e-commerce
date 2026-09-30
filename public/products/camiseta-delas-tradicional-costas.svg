@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Costas da Camiseta Coringão Delas Tradicional</title>
+  <desc id="desc">Verso provisório preto com estrela, raios e faixas claras.</desc>
+  <rect width="900" height="1080" fill="#d4d3ce"/>
+  <path d="m292 174 91-45c22 39 112 39 134 0l91 45 120 151-108 87-43-52 26 528H297l26-528-43 52-108-87Z" fill="#151515" stroke="#f8f8f5" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M383 129c11 49 123 49 134 0" fill="none" stroke="#d4d3ce" stroke-width="25"/>
+  <path d="M340 374h220v24H340zm18 50h184v12H358zm16 39h152v8H374" fill="#f8f8f5"/>
+  <path d="m450 522 29 85h90l-73 53 28 86-74-52-74 52 28-86-73-53h90Z" fill="none" stroke="#f8f8f5" stroke-width="12"/>
+  <path d="M332 638h-67m370 0h-67M350 570l-61-35m322 0-61 35M374 742l-53 51m258 0-53-51" stroke="#f8f8f5" stroke-width="10"/>
+  <text x="450" y="838" text-anchor="middle" fill="#f8f8f5" font-family="Arial Black, Arial, sans-serif" font-size="32" letter-spacing="5">MESMA PAIXÃO</text>
+</svg>

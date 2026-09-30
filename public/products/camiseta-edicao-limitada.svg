@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Camiseta Edição Limitada</title>
+  <desc id="desc">Camiseta provisória grafite com estrela e faixas diagonais.</desc>
+  <defs><pattern id="scratches" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M2 7h12M17 20h9M8 26h5" stroke="#efefeb" stroke-width="3" opacity=".18"/></pattern></defs>
+  <rect width="900" height="1080" fill="#121212"/>
+  <path d="M0 0h900v1080H0z" fill="url(#scratches)"/>
+  <path d="m275 178 105-49c25 37 115 37 140 0l105 49 118 154-116 85-39-55v526H312V362l-39 55-116-85Z" fill="#303030" stroke="#efefeb" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M380 129c14 47 126 47 140 0-9 79-131 79-140 0Z" fill="#121212"/>
+  <path d="M325 385 575 285v48L325 433Zm0 92 250-100v25L325 502Z" fill="#efefeb"/>
+  <path d="m450 502 38 111h117l-95 69 37 112-97-68-97 68 37-112-95-69h117Z" fill="none" stroke="#efefeb" stroke-width="14"/>
+  <text x="450" y="844" text-anchor="middle" fill="#efefeb" font-family="Arial Black, Arial, sans-serif" font-size="27" letter-spacing="6">SÉRIE DEMONSTRATIVA</text>
+  <text x="54" y="1015" fill="#efefeb" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">ARTE PROVISÓRIA</text>
+</svg>

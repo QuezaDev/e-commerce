@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Camiseta Delas Arquibancada</title>
+  <desc id="desc">Camiseta provisória clara com lettering e recortes geométricos.</desc>
+  <defs><pattern id="halftone" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="5" cy="5" r="2.2" fill="#171717" opacity=".2"/></pattern></defs>
+  <rect width="900" height="1080" fill="#191919"/>
+  <path d="m292 174 91-45c22 39 112 39 134 0l91 45 120 151-108 87-43-52 26 528H297l26-528-43 52-108-87Z" fill="#f1f0eb" stroke="#777773" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M383 129c11 49 123 49 134 0-7 78-127 78-134 0Z" fill="#191919"/>
+  <path d="M330 342h240v116H330Z" fill="#171717"/>
+  <path d="m330 458 240-116v82L330 540Z" fill="url(#halftone)"/>
+  <text x="450" y="426" text-anchor="middle" fill="#f1f0eb" font-family="Arial Black, Arial, sans-serif" font-size="57" letter-spacing="4">DELAS</text>
+  <text x="450" y="600" text-anchor="middle" fill="#171717" font-family="Arial Black, Arial, sans-serif" font-size="37" letter-spacing="4">ARQUIBANCADA</text>
+  <path d="M353 645h194M375 680h150" stroke="#171717" stroke-width="12"/>
+  <path d="m450 721 17 50h52l-42 30 16 51-43-30-43 30 16-51-42-30h52Z" fill="#171717"/>
+  <text x="54" y="1015" fill="#f1f0eb" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">ARTE DEMONSTRATIVA</text>
+</svg>

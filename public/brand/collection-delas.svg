@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" role="img" aria-labelledby="title desc">
+  <title id="title">Coleção Coringão Delas</title>
+  <desc id="desc">Arte provisória editorial com rosa em linha, camiseta e faixas.</desc>
+  <defs><pattern id="paper" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="5" cy="5" r="2" fill="#111" opacity=".14"/></pattern></defs>
+  <rect width="1000" height="800" fill="#ecebe6"/>
+  <rect width="1000" height="800" fill="url(#paper)"/>
+  <path d="M0 90h1000v58H0zm0 94h1000v22H0" fill="#111"/>
+  <path d="m135 246 73-37c18 28 78 28 96 0l73 37 88 113-82 64-29-41 18 352H140l18-352-29 41-82-64Z" fill="#181818" stroke="#f5f5f2" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M208 209c10 36 86 36 96 0-6 57-90 57-96 0Z" fill="#ecebe6"/>
+  <path d="M256 358c-58-68-119 26-46 57-35 55 50 87 46 18-4 69 81 37 46-18 73-31 12-125-46-57Z" fill="none" stroke="#f5f5f2" stroke-width="9"/>
+  <path d="M256 346v170m0-55c-34 17-49 38-53 64m53-35c34 12 51 33 55 59" fill="none" stroke="#f5f5f2" stroke-width="7"/>
+  <text x="520" y="446" fill="#111" font-family="Arial Black, Arial, sans-serif" font-size="76" letter-spacing="-2">CORINGÃO</text>
+  <text x="520" y="544" fill="#111" font-family="Georgia, serif" font-size="122" font-style="italic" font-weight="700">Delas</text>
+  <path d="M520 577h384" stroke="#111" stroke-width="11"/>
+  <text x="522" y="633" fill="#454545" font-family="Arial, sans-serif" font-size="21" font-weight="700" letter-spacing="4">MESMA IDENTIDADE. OUTRA MODELAGEM.</text>
+</svg>

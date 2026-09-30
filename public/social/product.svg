@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Peça em destaque</title>
+  <desc id="desc">Composição social provisória com camiseta e detalhes de impressão.</desc>
+  <defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="5" cy="5" r="2" fill="#f4f4f1" opacity=".16"/></pattern></defs>
+  <rect width="800" height="1000" fill="#151515"/>
+  <rect x="28" y="28" width="744" height="944" rx="34" fill="url(#dots)" stroke="#f4f4f1" stroke-width="4"/>
+  <path d="M88 172h624v74H88zm0 114h624v24H88" fill="#f4f4f1"/>
+  <g transform="rotate(6 400 570)">
+    <path d="m247 357 83-41c20 31 120 31 140 0l83 41 105 136-100 79-35-49 22 349H255l22-349-35 49-100-79Z" fill="#ededE9" stroke="#777" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M330 316c12 40 128 40 140 0-7 68-133 68-140 0Z" fill="#151515"/>
+    <path d="m400 500 27 79h83l-67 48 25 80-68-47-68 47 25-80-67-48h83Z" fill="#151515"/>
+  </g>
+  <text x="72" y="920" fill="#f4f4f1" font-family="Arial Black, Arial, sans-serif" font-size="34" letter-spacing="4">PEÇA EM DESTAQUE</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" role="img" aria-labelledby="title desc">
+  <title id="title">Coleção Coringão Loko</title>
+  <desc id="desc">Arte provisória urbana com camiseta, faixas e estrela.</desc>
+  <defs><pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="5" cy="5" r="2" fill="#efefeb" opacity=".16"/></pattern></defs>
+  <rect width="1000" height="800" fill="#111"/>
+  <path d="M0 0h1000v800H0Z" fill="url(#dots)"/>
+  <path d="M-30 150 1030 20v92L-30 242Zm0 182 1060-130v38L-30 370Z" fill="#efefeb"/>
+  <path d="m633 180 73-37c18 28 78 28 96 0l73 37 88 113-82 64-29-41 18 352H638l18-352-29 41-82-64Z" fill="#292929" stroke="#efefeb" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M706 143c10 36 86 36 96 0-6 57-90 57-96 0Z" fill="#111"/>
+  <path d="m754 328 25 71h75l-61 44 24 72-63-43-63 43 24-72-61-44h75Z" fill="none" stroke="#efefeb" stroke-width="11"/>
+  <text x="68" y="513" fill="#efefeb" font-family="Arial Black, Arial, sans-serif" font-size="84" letter-spacing="-2">CORINGÃO</text>
+  <text x="68" y="605" fill="#efefeb" font-family="Arial Black, Arial, sans-serif" font-size="112" letter-spacing="-4">LOKO</text>
+  <text x="72" y="664" fill="#aaa9a5" font-family="Arial, sans-serif" font-size="22" letter-spacing="5">IDENTIDADE URBANA • OLD SCHOOL</text>
+</svg>

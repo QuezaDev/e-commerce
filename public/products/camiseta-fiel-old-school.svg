@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Camiseta Fiel Old School</title>
+  <desc id="desc">Arte provisória monocromática de camiseta com estrela, faixas e rosa abstrata.</desc>
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="2" fill="#171717" opacity=".14"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="1080" fill="#e8e7e2"/>
+  <path d="M0 790 900 530v550H0Z" fill="url(#dots)"/>
+  <path d="m275 178 105-49c25 37 115 37 140 0l105 49 118 154-116 85-39-55v526H312V362l-39 55-116-85Z" fill="#171717" stroke="#fafaf7" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M380 129c14 47 126 47 140 0-9 79-131 79-140 0Z" fill="#e8e7e2"/>
+  <path d="m450 338 23 69 73 1-59 43 22 70-59-42-59 42 22-70-59-43 73-1Z" fill="#fafaf7"/>
+  <path d="M370 590c48-57 112-57 160 0-58-10-63 70-80 114-17-44-22-124-80-114Z" fill="none" stroke="#fafaf7" stroke-width="13"/>
+  <path d="m401 624 49-48 49 48-49 71Z" fill="none" stroke="#fafaf7" stroke-width="8"/>
+  <text x="450" y="792" text-anchor="middle" fill="#fafaf7" font-family="Arial Black, Arial, sans-serif" font-size="82" letter-spacing="8">FIEL</text>
+  <path d="M325 826h250" stroke="#fafaf7" stroke-width="10"/>
+  <text x="54" y="73" fill="#171717" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">ARTE DEMONSTRATIVA</text>
+</svg>
